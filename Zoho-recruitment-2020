@@ -1,0 +1,7 @@
+packagecom.shruthi
+public static void main(string[]arg){
+system.out.println(55555);
+system.out.println(54444);
+system.out.println(54333);
+syatem.out.println(54322);
+system.out.println(54321);
